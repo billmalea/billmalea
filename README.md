@@ -1,4 +1,4 @@
-# Hey! I'm Bildad 👋
+# Hey! I'm Bill Malea 👋
 
 **Building the future, one commit at a time** 🚀
 
