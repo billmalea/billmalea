@@ -1,8 +1,7 @@
 # Bill Malea
 **Full-Stack Software Engineer**
 
-Software engineer specializing in scalable cloud-native applications and cross-platform mobile solutions. Delivering production systems for agri-tech, healthcare, and logistics sectors.
-
+Software engineer specializing in scalable cloud-native applications and cross-platform mobile solutions. 
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -18,13 +17,16 @@ Software engineer specializing in scalable cloud-native applications and cross-p
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="top">
 
 **Cloud & Backend**
 - AWS Serverless (Lambda, DynamoDB, AppSync)
 - GraphQL & REST APIs
 - Node.js, CI/CD automation
 - AWS Certified Cloud Practitioner
+</td>
+
+<td align="top">
 
 **Mobile & Frontend**
 - Flutter, React Native
@@ -32,7 +34,7 @@ Software engineer specializing in scalable cloud-native applications and cross-p
 - Responsive UI/UX
 
 </td>
-<td width="50%" valign="top">
+<td align="top">
 
 **Languages & Tools**
 - JavaScript, TypeScript, Dart
@@ -43,4 +45,3 @@ Software engineer specializing in scalable cloud-native applications and cross-p
 </tr>
 </table>
 
-**Contact:** billmalea@gmail.com | Open to consulting and technical partnerships
