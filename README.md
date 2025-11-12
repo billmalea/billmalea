@@ -1,35 +1,42 @@
-# Hey! I'm Bill Malea 👋
+# Bill Malea
 
-**Building the future, one commit at a time** 🚀
+**Full-Stack Software Engineer | Cloud Architecture | Mobile Development**
 
-I'm a software developer who loves crafting scalable applications and solving complex problems. Currently working remotely from Kenya 🇰🇪, helping businesses worldwide turn their ideas into reality.
+Software engineer specializing in scalable cloud-native applications and cross-platform mobile solutions. Proven track record delivering production systems for agri-tech, healthcare, and logistics sectors. 
+## Core Expertise
 
-## 🔥 What I'm Working On
+**Cloud-Native Development**
+- Architecting and deploying serverless applications on AWS (Lambda, DynamoDB, AppSync, S3)
+- Building GraphQL and REST APIs with focus on performance and scalability
+- Implementing CI/CD pipelines with GitHub Actions and AWS Amplify
 
-- 🌱 **Agri-tech solutions** that help farmers make data-driven decisions
-- 💊 **Wellness applications** connecting people with healthcare resources
-- 📦 **Logistics platforms** optimizing supply chain operations
-- ☁️ **Serverless architectures** on AWS that scale effortlessly
+**Mobile & Frontend Engineering**
+- Cross-platform mobile development with Flutter and React Native
+- Modern web applications using React and Next.js with TypeScript
+- Responsive, accessible UI/UX implementation
 
-## ⚡ Quick Facts
+**Domain Experience**
+- Agri-tech: Data-driven decision platforms for agricultural operations
+- Healthcare: Patient-provider connection systems and wellness applications
+- Logistics: Supply chain optimization and tracking solutions
 
-```javascript
-const bildad = {
-  code: ["JavaScript", "TypeScript", "Dart", "Bash"],
-  technologies: {
-    mobile: ["Flutter", "React Native"],
-    frontend: ["React", "Next.js"],
-    backend: ["Node.js", "GraphQL", "REST APIs"],
-    cloud: ["AWS Lambda", "DynamoDB", "AppSync", "S3"],
-    devOps: ["GitHub Actions", "AWS Amplify"]
-  },
-  currentFocus: "Serverless Architecture & Mobile Development",
-  certifications: ["AWS Certified Cloud Practitioner"],
-  funFact: "I can debug faster with console.log than most people with debuggers 😄"
-};
-```
+## Technical Stack
 
-## 🛠️ My Favorite Stack
+**Languages:** JavaScript, TypeScript, Dart, Bash
+
+**Mobile:** Flutter, React Native
+
+**Frontend:** React, Next.js
+
+**Backend:** Node.js, GraphQL, REST APIs
+
+**Cloud & Infrastructure:** AWS Lambda, DynamoDB, AppSync, S3, AWS Amplify
+
+**DevOps:** GitHub Actions, CI/CD automation
+
+**Certifications:** AWS Certified Cloud Practitioner
+
+## Technology Proficiency
 
 <div align="center">
 
@@ -38,51 +45,49 @@ const bildad = {
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
-## 📊 GitHub Wrapped
+## GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bill-Malea&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bill-Malea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bill-Malea&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-## 🎯 Featured Projects
+## Featured Work
 
-> *Check out my pinned repositories below for some of my best work!*
+Explore pinned repositories below for production-ready implementations:
 
-I love building:
-- **📱 Cross-platform mobile apps** that feel native on both iOS and Android
-- **🔗 GraphQL APIs** that make data fetching a breeze
-- **⚡ Serverless backends** that scale automatically and cost effectively
-- **🎨 Clean, intuitive UIs** that users actually enjoy using
+- **Cross-platform mobile applications** with native performance on iOS and Android
+- **GraphQL APIs** optimized for efficient data fetching and real-time updates
+- **Serverless architectures** designed for automatic scaling and cost optimization
+- **Modern web interfaces** with focus on accessibility and user experience
 
-## 🌟 When I'm Not Coding
+## Professional Development
 
-- 🎵 Listening to lo-fi beats while debugging
-- 📚 Reading about new AWS services and cloud patterns
-- 🌍 Contributing to open source projects
-- 💡 Brainstorming the next big app idea
+- Continuously expanding AWS cloud architecture knowledge
+- Active contributor to open source projects
+- Staying current with emerging technologies and industry best practices
 
-## 🤝 Let's Build Something Amazing Together
+## Contact & Collaboration
 
-I'm always excited to collaborate on interesting projects! Whether you need:
-- A mobile app that scales
-- A serverless backend that just works
-- Technical consultation for your startup
-- Or just want to chat about code
+Open to consulting opportunities and technical partnerships. Available for:
+- Full-stack application development
+- Cloud architecture design and implementation
+- Mobile application development
+- Technical advisory services
 
-**Drop me a line:** billmalea@gmail.com
+**Email:** billmalea@gmail.com
 
 ---
 
 <div align="center">
-
-**"The best way to predict the future is to create it"** 💫
 
 [![GitHub followers](https://img.shields.io/github/followers/Bill-Malea?style=social)](https://github.com/Bill-Malea)
 [![GitHub stars](https://img.shields.io/github/stars/Bill-Malea?style=social)](https://github.com/Bill-Malea)
