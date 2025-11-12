@@ -1,5 +1,5 @@
 # Bill Malea
-**Full-Stack Software Engineer | Cloud Architecture | Mobile Development**
+**Full-Stack Software Engineer**
 
 Software engineer specializing in scalable cloud-native applications and cross-platform mobile solutions. Delivering production systems for agri-tech, healthcare, and logistics sectors.
 
@@ -34,11 +34,6 @@ Software engineer specializing in scalable cloud-native applications and cross-p
 </td>
 <td width="50%" valign="top">
 
-**Domain Experience**
-- Agri-tech decision platforms
-- Healthcare connection systems
-- Logistics optimization solutions
-
 **Languages & Tools**
 - JavaScript, TypeScript, Dart
 - GitHub Actions, AWS Amplify
@@ -47,11 +42,5 @@ Software engineer specializing in scalable cloud-native applications and cross-p
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bill-Malea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&card_width=400)
-
-</div>
 
 **Contact:** billmalea@gmail.com | Open to consulting and technical partnerships
