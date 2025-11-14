@@ -1,7 +1,6 @@
 # Bill Malea
 **Full-Stack Software Engineer**
 
-Software engineer specializing in scalable cloud-native applications and cross-platform mobile solutions. 
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
