@@ -1,5 +1,5 @@
 # Bill Malea
-**Full-Stack Software Engineer**
+**Software Engineer**
 
 <div align="center">
 
