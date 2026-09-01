@@ -36,7 +36,7 @@
 <td align="top">
 
 **Languages & Tools**
-- JavaScript, TypeScript, Dart
+- JavaScript, TypeScript, Elixir, Python,  Dart
 - GitHub Actions, AWS Amplify
 - Bash scripting
 
